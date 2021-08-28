@@ -1,2 +1,2 @@
 # cpp_programs
-programs the I code in cpp
+programs that I code in cpp
